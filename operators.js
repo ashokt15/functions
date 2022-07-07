@@ -5,3 +5,5 @@ console.log(ageAshok, agePushpa);
 console.log(ageAshok *2, agePushpa /2);
 console.log(ageAshok > agePushpa);
 console.log(ageAshok >= 35)
+const averageAge = (ageAshok + agePushpa) /2;
+console.log(ageAshok , agePushpa, averageAge);
